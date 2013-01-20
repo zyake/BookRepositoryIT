@@ -10,7 +10,7 @@ public class JdbcManager {
 
     private static final String APP_USER = "AppUser1";
 
-    private static final String APP_PASS = "n1k1jkai";
+    private static final String APP_PASS = "password";
 
     private static final String DRIVER_FQCN = "com.mysql.jdbc.Driver";
 
